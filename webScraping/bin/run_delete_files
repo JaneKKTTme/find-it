@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /home/janekkttme/Документы/FindIt/webScraping/utilityScripts
+python3 deleteFiles.py

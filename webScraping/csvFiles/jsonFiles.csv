@@ -1,0 +1,3 @@
+jsonFile_raw,jsonFile_prep,file_name_prep,file_name_final
+/home/janekkttme/Документы/FindIt/webScraping/rawdata_HM.json,/home/janekkttme/Документы/FindIt/webScraping/jsonFiles/prepdata_HM.json,prepdata_HM.json,finaldata_HM.json
+/home/janekkttme/Документы/FindIt/webScraping/rawdata_ItemHM.json,/home/janekkttme/Документы/FindIt/webScraping/jsonFiles/prepdata_ItemHM.json,prepdata_ItemHM.json,finaldata_ItemHM.json
